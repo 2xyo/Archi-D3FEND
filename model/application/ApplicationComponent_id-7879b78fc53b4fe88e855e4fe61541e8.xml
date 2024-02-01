@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IDS"
+    id="id-7879b78fc53b4fe88e855e4fe61541e8">
+  <properties
+      key="Detect"
+      value="d3f:NetworkTrafficAnalysis"/>
+  <properties
+      key="Detect"
+      value="d3f:ProtocolMetadataAnomalyDetection"/>
+</archimate:ApplicationComponent>

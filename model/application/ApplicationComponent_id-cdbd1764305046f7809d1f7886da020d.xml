@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SIEM"
+    id="id-cdbd1764305046f7809d1f7886da020d">
+  <properties
+      key="Detect"
+      value="d3f:NetworkTrafficAnalysis"/>
+  <properties
+      key="Detect"
+      value="d3f:ProtocolMetadataAnomalyDetection"/>
+</archimate:ApplicationComponent>

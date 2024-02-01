@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IOC (IP Address range)"
+    id="id-b8450ddbb2954f2489acd9f6cc18b539">
+  <properties
+      key="type"
+      value="ipv4-addr"/>
+</archimate:DataObject>

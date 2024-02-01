@@ -1,0 +1,8 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workstation"
+    id="id-277ca05984604a36b5343174d157693a">
+  <properties
+      key="Isolate"
+      value="d3f:OutboundTrafficFiltering"/>
+</archimate:Device>

@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IDS"
+    id="id-98f8487b38674402976156972cda0679">
+  <properties
+      key="type"
+      value="ipv4-addr"/>
+</archimate:ApplicationComponent>

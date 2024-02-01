@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DNS"
+    id="id-686e74c9a6a345829c7118c62cc7016b">
+  <properties
+      key="Isolate"
+      value="d3f:DNSDenylisting"/>
+</archimate:ApplicationComponent>

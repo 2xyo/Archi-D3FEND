@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Firewall"
+    id="id-3812786e7e2f4d5992bf9b5ba998b443">
+  <properties
+      key="Isolate"
+      value="d3f:OutboundTrafficFiltering"/>
+</archimate:ApplicationComponent>
