@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proxy reputation"
+    id="id-5688bc26bc6a44528cedf6ae86bc4e57">
+  <properties
+      key="Detect"
+      value="d3f:URLAnalysis"/>
+</archimate:ApplicationComponent>

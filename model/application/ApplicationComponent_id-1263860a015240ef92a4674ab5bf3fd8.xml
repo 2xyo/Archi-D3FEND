@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mail GW"
+    id="id-1263860a015240ef92a4674ab5bf3fd8">
+  <properties
+      key="Isolate"
+      value="d3f:EmailFiltering"/>
+  <properties
+      key="Detect"
+      value="d3f:SenderReputationAnalysis"/>
+</archimate:ApplicationComponent>
