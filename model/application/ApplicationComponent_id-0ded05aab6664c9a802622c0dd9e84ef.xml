@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DDOS Protection"
+    id="id-0ded05aab6664c9a802622c0dd9e84ef">
+  <properties
+      key="Isolate"
+      value="d3f:DNSDenylisting"/>
+</archimate:ApplicationComponent>
