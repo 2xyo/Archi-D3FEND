@@ -5,4 +5,10 @@
   <properties
       key="Isolate"
       value="d3f:OutboundTrafficFiltering"/>
+  <properties
+      key="Isolate"
+      value="d3f:InboundTrafficFiltering"/>
+  <properties
+      key="Detect"
+      value="d3f:AdministrativeNetworkActivityAnalysis"/>
 </archimate:ApplicationComponent>
